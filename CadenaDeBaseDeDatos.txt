@@ -1,0 +1,1 @@
+data source=DESKTOP-F62QF0Q;initial catalog=BaseDatosTemp;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework
